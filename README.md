@@ -1,7 +1,9 @@
 # one-dimen-optim-derivatives
 <h1>Тема: «Методы одномерной оптимизации, использующие производные»</h1>
 
-> [Отчет по лаборатоной работе]()
+> [ -> Отчет по лаборатоной работе (блок-схемы функций методов, скриншоты работы)](https://github.com/ktsmsnv/one-dimen-optim-derivatives/blob/9edc71f997b16dfd15c299188e5fba5969fa3758/%D0%98%D0%92%D0%A2-221%20%D0%A1%D0%B0%D0%BC%D1%81%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%95.%D0%9E.%20%20%D0%9B%D0%A0%20N-2%20%D0%9C%D0%9E.docx)
+>
+> [ -> Код программы](https://github.com/ktsmsnv/one-dimen-optim-derivatives/blob/9edc71f997b16dfd15c299188e5fba5969fa3758/%D0%9C%D0%9E%20%D0%9B%D0%A0%E2%84%962.cpp)
 
 > <strong><h2>Задание</h2></strong>
 > <p>Вычислить минимальное значение функции f(x)=x^2+e^3x на интервале [-2;0] с заданной точностью ɛ.</p>
